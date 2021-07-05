@@ -1,14 +1,22 @@
 # Installing-arm-package-on-ROS
 Installing arm package on Robotics Operating System ( ROS ) and Controlling the arm motors in simulation 
+
+
 # Steps
 run this instruction inside your workspace:
 
 $ cd simulation_ws
+
 $ cd src/
+
 $ git clone https://github.com/smart-methods/arduino_robot_arm.git
+
 $ cd ..
+
 $ ls
+
 $ catkin_make
+
 
 # for melodic distro
 
